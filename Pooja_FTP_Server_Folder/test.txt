@@ -1,0 +1,10 @@
+this is a trial file. 
+
+
+I am adding more lines to the  file. 
+
+
+This is a networks project to make a home pc as an ftp server.
+
+
+the server admin pooja is making changes.
