@@ -91,9 +91,3 @@ Copy the link created in the Ngrok terminal into a web browser
 **Server Administrator Login**\
 <img width="655" alt="image" src="https://github.com/PoojaPremnath2003/NetworksProject_TeamNo2/assets/88699435/fd7caa23-d940-4d29-b3d5-c2bbcfb56720">
 
-**Access files from outside the network**\
-<img width="953" alt="image" src="https://github.com/PoojaPremnath2003/NetworksProject_TeamNo2/assets/88699435/e27ce6e5-3b21-4ded-acaa-5192b5f723bf">
-
-**Download files to local system**
-<img width="552" alt="image" src="https://github.com/PoojaPremnath2003/NetworksProject_TeamNo2/assets/88699435/82f9efc3-d487-4755-a8f1-037a47c8f1de">
-
